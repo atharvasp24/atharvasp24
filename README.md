@@ -1,9 +1,79 @@
 <h1 align="center">Hi 👋, I'm Atharva Santosh Patil</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Multimodal AI Enthusiast | Data Scientist | Researcher | Open to Collaborations</h3>
 
-<h3 align="left">Connect with me:</h3>
+---
+
+🎓 **Graduate Student (MS in Data Science)** at *Rochester Institute of Technology*, NY  
+📌 Passionate about building **AI systems that bridge research and real-world impact**  
+📍 Currently exploring: Multimodal Learning, Autonomous Systems, Retrieval-Augmented Generation (RAG), and Applied Deep Learning  
+📨 Reach me at: **atharvasp24@gmail.com**  
+🔗 [LinkedIn](https://www.linkedin.com/in/atharva-patil)
+
+---
+
+### 🚀 Tech I'm Working With
+
+**Languages**: Python, Java, SQL  
+**ML Frameworks**: PyTorch, TensorFlow, Scikit-learn, Keras  
+**Data & Cloud**: AWS (S3, Lambda, SageMaker, StepFunctions), Docker, BigQuery  
+**Visualization**: Tableau, Matplotlib, Seaborn  
+**Big Data**: Spark, Hadoop  
+**Other**: OpenCV, Pandas, Numpy, Transformers, LLMs
+
+---
+
+### 🧠 My Interests
+- Multimodal Learning (Vision + Language)
+- Generative AI (LLMs, RAG pipelines)
+- Intelligent Human-Computer Interaction
+- Autonomous Systems & Robotics
+- Scalable ML Pipelines (ETL, Time Series Forecasting)
+- Causal Inference & Statistical Modeling
+
+---
+
+### 📌 Featured Projects
+
+**🔬 Multimodal Embedding Research @ RIT**  
+Studying token limitations and retrieval degradation in models like CLIP, BLIP-2, and ALIGN.
+
+**🍽 Sentiment Analysis for Food Chains**  
+Fine-tuned BERT models to classify multilingual reviews with 92% accuracy.
+
+**🌾 Eco-Harvesters**  
+Built an AI-driven agricultural platform to optimize crop yield using XGBoost and statistical testing.
+
+**🛒 Forecasting for E-Commerce**  
+Created an ETL pipeline and forecasting model using PySpark and Prophet, reducing forecast error under 7.5%.
+
+---
+
+### 🧰 Tools & Platforms
+
 <p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg" width="40" height="40"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=atharvasp24&show_icons=true&theme=github_dark&hide_title=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=atharvasp24&theme=dark&date_format=M%20j%5B%2C%20Y%5D"/>
+</p>
+
+---
+
+### 🤝 Let's Connect!
+
+If you're working on impactful AI problems, research collaborations, or internships – let's talk!  
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/atharva-patil) or drop a message 💬
