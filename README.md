@@ -6,8 +6,8 @@
 🎓 **Graduate Student (MS in Data Science)** at *Rochester Institute of Technology*, NY  
 📌 Passionate about building **AI systems that bridge research and real-world impact**  
 📍 Currently exploring: Multimodal Learning, Autonomous Systems, Retrieval-Augmented Generation (RAG), and Applied Deep Learning  
-📨 Reach me at: **atharvasp24@gmail.com**  
-🔗 [LinkedIn](https://www.linkedin.com/in/atharva-patil)
+📨 Reach me at: **atharvasp24@gmail.com / ap4925@g.rit.edu**  
+🔗 [LinkedIn]([https://www.linkedin.com/in/atharva-patil](https://www.linkedin.com/in/atharva-patil-420660200/))
 
 ---
 
