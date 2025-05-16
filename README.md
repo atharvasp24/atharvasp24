@@ -65,14 +65,6 @@ Created an ETL pipeline and forecasting model using PySpark and Prophet, reducin
 
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atharvasp24&show_icons=true&theme=github_dark&hide_title=true"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=atharvasp24&theme=dark&date_format=M%20j%5B%2C%20Y%5D"/>
-</p>
-
----
-
 ### 🤝 Let's Connect!
 
 If you're working on impactful AI problems, research collaborations, or internships – let's talk!  
